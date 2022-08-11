@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabiana</h1>
 <h3 align="center">A Frontend Developer from Chile</h3>
 
-<h3 align="left">Connect with me: fb.barriacardenas@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -17,3 +16,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabibbc&show_icons=true&locale=en&layout=compact" alt="fabibbc" /></p>
+
+<p align="left">Connect with me: fb.barriacardenas@gmail.com</p>
